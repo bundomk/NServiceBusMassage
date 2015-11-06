@@ -1,0 +1,16 @@
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EEndpointHandler\bin\Debug\EEndpointHandler.dll.config
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EEndpointHandler\bin\Debug\EEndpointHandler.dll
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EEndpointHandler\bin\Debug\EEndpointHandler.pdb
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EEndpointHandler\bin\Debug\EConfig.dll
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EEndpointHandler\bin\Debug\NServiceBus.Core.dll
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EEndpointHandler\bin\Debug\NServiceBus.Host.exe
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EEndpointHandler\bin\Debug\EConfig.pdb
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EEndpointHandler\bin\Debug\NServiceBus.Core.pdb
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EEndpointHandler\bin\Debug\NServiceBus.Core.xml
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EEndpointHandler\bin\Debug\NServiceBus.Host.pdb
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EEndpointHandler\bin\Debug\NServiceBus.Host.xml
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EEndpointHandler\obj\Debug\EEndpointHandler.csprojResolveAssemblyReference.cache
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EEndpointHandler\obj\Debug\EEndpointHandler.dll
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EEndpointHandler\obj\Debug\EEndpointHandler.pdb
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EEndpointHandler\bin\Debug\EContracts.dll
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EEndpointHandler\bin\Debug\EContracts.pdb

@@ -1,0 +1,7 @@
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EConfig\bin\Debug\EConfig.dll
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EConfig\bin\Debug\EConfig.pdb
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EConfig\bin\Debug\NServiceBus.Core.dll
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EConfig\bin\Debug\NServiceBus.Core.pdb
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EConfig\bin\Debug\NServiceBus.Core.xml
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EConfig\obj\Debug\EConfig.dll
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EConfig\obj\Debug\EConfig.pdb

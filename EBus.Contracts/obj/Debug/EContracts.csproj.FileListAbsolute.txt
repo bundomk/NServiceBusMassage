@@ -1,0 +1,4 @@
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EContracts\bin\Debug\EContracts.dll
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EContracts\bin\Debug\EContracts.pdb
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EContracts\obj\Debug\EContracts.dll
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EContracts\obj\Debug\EContracts.pdb

@@ -1,0 +1,14 @@
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EContracts\bin\Debug\EBus.Contracts.dll
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EContracts\bin\Debug\EBus.Contracts.pdb
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EContracts\obj\Debug\EBus.Contracts.dll
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EContracts\obj\Debug\EBus.Contracts.pdb
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EBus.Contracts\bin\Debug\EBus.Contracts.dll
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EBus.Contracts\bin\Debug\EBus.Contracts.pdb
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EBus.Contracts\obj\Debug\EBus.Contracts.dll
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EBus.Contracts\obj\Debug\EBus.Contracts.pdb
+D:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EBus.Contracts\obj\Debug\EBus.Contracts.csprojResolveAssemblyReference.cache
+E:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EBus.Contracts\bin\Debug\EBus.Contracts.dll
+E:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EBus.Contracts\bin\Debug\EBus.Contracts.pdb
+E:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EBus.Contracts\obj\Debug\EBus.Contracts.csprojResolveAssemblyReference.cache
+E:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EBus.Contracts\obj\Debug\EBus.Contracts.dll
+E:\TestProjects\GIT\NServiceBusMassage\NServiceBusMassage\EBus.Contracts\obj\Debug\EBus.Contracts.pdb
